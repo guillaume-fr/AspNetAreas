@@ -6,9 +6,10 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <title>UsefulBits ASP.Net Web API 2.2 Area Routing</title>
+    <title>UsefulBits ASP.Net Web API 2 Area Routing</title>
     <tags>WebApi area route AspNet AspNetWebApi MVC routing</tags>
     <description>$description$</description>
+    <projectUrl>https://github.com/guillaume-fr/AspNetAreas</projectUrl>
   </metadata>
   <files>
     <file src="readme.txt" target="" />

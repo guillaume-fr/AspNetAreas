@@ -9,6 +9,7 @@
     <title>UsefulBits ASP.Net Mvc per area dependency resolver</title>
     <tags>Area dependency resolver DependencyResolver AspNet MVC</tags>
     <description>$description$</description>
+    <projectUrl>https://github.com/guillaume-fr/AspNetAreas</projectUrl>
   </metadata>
   <files>
     <file src="readme.txt" target="" />
