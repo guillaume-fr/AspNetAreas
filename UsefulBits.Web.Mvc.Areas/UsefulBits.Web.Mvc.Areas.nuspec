@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>UsefulBits ASP.Net Mvc per area dependency resolver</title>
+    <tags>Area dependency resolver DependencyResolver AspNet MVC</tags>
+    <description>$description$</description>
+  </metadata>
+  <files>
+    <file src="readme.txt" target="" />
+  </files>
+</package>

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsefulBits.Web.Mvc.Areas", "UsefulBits.Web.Mvc.Areas\UsefulBits.Web.Mvc.Areas.csproj", "{22752B2E-D1FE-4669-84B3-745FD3CB0E5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsefulBits.PerAreaDependencyResolver.Demo", "UsefulBits.PerAreaDependencyResolver.Demo\UsefulBits.PerAreaDependencyResolver.Demo.csproj", "{CCF7D8D6-6E45-4409-8FB0-45225AA966C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsefulBits.Web.Http.Areas", "UsefulBits.Web.Http.Areas\UsefulBits.Web.Http.Areas.csproj", "{5E83AC3C-748D-487F-8209-CCB257A54781}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3C2D0AEA-EA76-45E6-979E-429B61E22653}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22752B2E-D1FE-4669-84B3-745FD3CB0E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22752B2E-D1FE-4669-84B3-745FD3CB0E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22752B2E-D1FE-4669-84B3-745FD3CB0E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22752B2E-D1FE-4669-84B3-745FD3CB0E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF7D8D6-6E45-4409-8FB0-45225AA966C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF7D8D6-6E45-4409-8FB0-45225AA966C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF7D8D6-6E45-4409-8FB0-45225AA966C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF7D8D6-6E45-4409-8FB0-45225AA966C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E83AC3C-748D-487F-8209-CCB257A54781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E83AC3C-748D-487F-8209-CCB257A54781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E83AC3C-748D-487F-8209-CCB257A54781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E83AC3C-748D-487F-8209-CCB257A54781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
